@@ -1,0 +1,87 @@
+<questions>
+    <question id="CJP001">
+        <type>checkbox</type>
+        <title>¿Qué es angularJs?</title>
+        <option>Es un framework de javaScript para las aplicaciones de SPA</option>
+        <option>Java server page</option>
+        <option>Es un navegador Web</option>
+        <answer>0</answer>
+    </question>
+    <question id="CJP002">
+        <type>text</type>
+        <title>¿Qué significa JDBC?</title>
+        <answer>Conectividad de bases de datos Java</answer>
+    </question>
+    <question id="CJP003">
+        <type>select</type>
+        <title>¿Quién inventó Java?</title>
+        <option>Microsoft</option>
+        <option>Sun Microsystems</option>
+        <option>Ubuntu</option>
+        <option>Oracle</option>
+        <answer>3</answer>
+    </question>
+    <question id="CJP004">
+        <type>radio</type>
+        <title>¿En que año fue inventado Java?</title>
+        <option>2000</option>
+        <option>1995</option>
+        <option>1991</option>
+        <answer>1</answer>
+    </question>
+    <question id="CJP005">
+        <type>multiple</type>
+        <title>¿Que es SPA?</title>
+        <option>aplicación web única</option>
+        <option>aplicación web angular</option>
+        <option>aplicación web de una sola pagina</option>
+        <answer>0</answer>
+        <answer>2</answer>
+    </question>
+    <question id="CJP006">
+        <type>radio</type>
+        <title>¿Quién ha creado el lenguaje de programación Swift?</title>
+        <option>Linux</option>
+        <option>Microsoft</option>
+        <option>Oracle</option>
+        <option>Apple</option>
+        <answer>3</answer>
+    </question>
+    <question id="CJP007">
+        <type>select</type>
+        <title>¿Para que sirve el JDK?</title>
+        <option>Programa que sirve para ejecutar aplicaciones móviles.</option>
+        <option>Software que permite ejecutar programas Java.</option>
+        <option>Hardware para instalar juegos de Java.</option>
+        <option>Para ayudar a los navegadores web en las consultas.</option>
+        <answer>1</answer>
+    </question>
+    <question id="CJP008">
+        <type>checkbox</type>
+        <title>¿Cuánto cobra mensualmente de media en España un programador WEB?</title>
+        <option>2.500</option>
+        <option>1.500</option>
+        <option>1.000</option>
+        <option>2.221</option>
+        <answer>1</answer>
+    </question>
+    <question id="CJP009">
+        <type>select</type>
+        <title>En java,¿ cómo muestras información por pantalla?</title>
+        <option>System.out.println(“”);</option>
+        <option>print(“”)</option>
+        <option>imprimirmensaje (“”)</option>
+        <option>public static void main(String [] Args)</option>
+        <answer>0</answer>
+    </question>
+    <question id="CJP010">
+        <type>multiple</type>
+        <title>Señala todos los lenguajes de programación</title>
+        <option>JAVA</option>
+        <option>SQL</option>
+        <option>HTML</option>
+        <option>C++</option>
+        <answer>0</answer>
+        <answer>3</answer>
+    </question>
+</questions>

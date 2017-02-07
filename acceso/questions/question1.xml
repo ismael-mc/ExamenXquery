@@ -1,0 +1,110 @@
+<questions>
+	<!-- Edades de la historia -->
+    <question id="jklm_001">
+        <type>radio</type>
+        <title>1.- Selecciona el orden cronológico adecuado:</title>
+        <option>a) Edad Media, Prehistoria, Edad Moderna y Contemporánea, Edad Antigua</option>
+        <option>b) Prehistoria, Edad Antigua, Edad Media, Edad Moderna y Contemporánea</option>
+        <option>c) Edad Moderna y Contemporánea, Edad Antigua, Prehistoria, Edad Media</option>
+        <option>d) Prehistoria, Edad Antigua, Edad Media, Contemporánea y Edad Moderna </option>
+        <answer>1</answer>
+    </question>
+    
+	<!--Prehistoria (Juan Sixto)-->
+    <question id="jklm_002">
+        <type>radio</type>
+        <title>¿Cuál fue el primer homínido?</title>
+        <option>a) Homo Erectus</option>
+        <option>b) Homo Habilis</option>
+        <option>c) Australopithecus</option>
+        <answer>2</answer>
+    </question>
+    <question id="jklm_003">
+        <type>text</type>
+        <title>¿La especie humana y los mamuts compartieron hábitat?</title>
+        <answer>si</answer>
+    </question>
+    <question id="jklm_004">
+        <type>checkbox</type>
+        <title>El hombre de Cro-Magnon se extinguió debido principalmente a:</title>
+        <option>a) Cambios Climáticos</option>
+        <option>b) Guerras y Mestizaje</option>
+        <option>c) Enfermedades</option>
+        <answer>1</answer>
+    </question>
+
+	<!--Edad Antigua (Marga)-->
+    <question id="jklm_005">
+        <type>select</type>
+        <title>5.- ¿Qué Edad de la Historia tuvo una época que se caracterizaba por el ideal de belleza y perfección?</title>
+        <option>a) Edad Media</option>
+        <option>b) Edad Moderna y Contemporánea</option>
+        <option>c) Prehistoria</option>
+        <option>d) Antigua</option>
+        <answer>3</answer>
+    </question>
+    <question id="jklm_006">
+        <type>radio</type>
+        <title>6.- ¿Cuándo se fundó Roma?</title>
+        <option>a) Enero de 69 a.C.</option>
+        <option>b) Junio de 323 a.C.</option>
+        <option>c) Abril de 753 ó 752 a.C.</option>
+        <option>d) Agosto de 480 a.C.</option>
+        <answer>2</answer>
+    </question>
+    <question id="jklm_007">
+        <type>text</type>
+        <title>7.- ¿En honor de qué dios griego se celebraban los Juegos Olímpicos? (Poseidón, Zeus, Apolo, Heracles)</title>
+        <answer>Zeus</answer>
+    </question>
+
+<!--Edad Media (Lansana)-->
+    <question id="jklm_008">
+        <type>text</type>
+        <title>8.- La edad media en Europa tuvo un periodo de (1000, 1500, 2000):</title>
+        <answer>1000</answer>
+    </question>
+    <question id="jklm_009">
+        <type>multiple</type>
+        <title>9.- En el periodo medieval, era el estamento más alto después del rey. No pagaban impuestos. ¿A qué grupo social corresponde la descripción?</title>
+        <option>a) Los campesinos</option>
+        <option>b) El clero</option>
+        <option>c) La nobleza</option>
+        <option>d) Señores feudales</option>
+        <answer>2</answer>
+        <answer>3</answer>
+    </question>
+    <question id="jklm_010">
+        <type>multiple</type>
+        <title>10.- Cuando no había guerra declarada, ¿qué distracciones tenían los señores?</title>
+        <option>a) Cacerías, justas y torneos</option>
+        <option>b) Las Cruzadas</option>
+        <option>c) Asistiendo a misa</option>
+        <option>d) Canciones de trovadores</option>
+        <answer>0</answer>
+        <answer>3</answer>
+    </question>
+
+	<!--Edad Moderna y Contemporánea (Kevin)-->
+    <question id="jklm_011">
+        <type>checkbox</type>
+        <title>11.- ¿Cuáles fueron las posesiones del reino español en el siglo XVI?</title>
+        <option>Toda América Latina</option>
+        <option>América Latina excepto Argentina</option>
+        <option>América Latina excepto Brasil</option>
+        <answer>2</answer>
+    </question>
+    <question id="jklm_012">
+        <type>text</type>
+        <title>12.- ¿Qué siglo se denomina el Siglo de Oro? (XV, XVI, XVII)</title>
+        <answer>XV</answer>
+    </question>
+    <question id="jklm_013">
+        <type>select</type>
+        <title>13.- En América, ¿qué territorio descubrieron y colonizaron los portugueses?</title>
+        <option>Brasil</option>
+        <option>Chile</option>
+        <option>Argentina</option>
+        <answer>0</answer>
+    </question>
+</questions>

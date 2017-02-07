@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <script type="text/javascript" src="js/script.js" charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"/>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
+        <title>Preguntas</title>
+        <style>
+        .dos{
+            background: #8697AD;
+            margin-bottom: 20px;
+            
+        }
+        .uno{
+            margin-bottom: 50px;
+        	margin-left: 40%;
+        }
+
+        </style>
+    </head>
+    <body>
+        <h1 align="center">EXAMEN DE CONOCIMIENTOS GENERALES</h1>
+        <form method="post" name="formulariopreguntas" action="correction.xql">
+            <input type="hidden" name="resultadoxml" value=""/>
+            <table class="dos" align="center">
+                <tr>
+                    <td>
+                        <table class="table table-hover" id="preguntas"/>
+                        <br/>
+                        <input class="uno" type="submit" name="Terminar y Enviar" value="Terminar y Enviar"/>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </body>
+</html>

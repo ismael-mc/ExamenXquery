@@ -1,0 +1,69 @@
+<questions>
+    <question id="Oscar001">
+        <type>select</type>
+        <title>Hay 2 padres y 2 hijos en una lancha ¿Cuántas personas hay en la lancha?</title>
+        <option> 5 personas: hay 3 hijos, un padre, y un padre que también es hijo.</option>
+        <option>4 personas: hay dos padres y dos hijos</option>
+        <option>2 personas: hay un padre y un hijo</option>
+        <option>3 personas: hay un hijo, un padre, y un padre que también es hijo.</option>
+        <answer>3</answer>
+    </question>
+    <question id="Oscar002">
+        <type>select</type>
+        <title>Encuentra la lógica en las siguientes operaciones y números: 
+3+1 = 24
+5+2 = 37
+7+2 = 59
+8+1 = 79
+7+5 = 212
+15+3 = 1218
+</title>
+        <option>Multiplicación entre los 2 números </option>
+        <option>Potencia de los 2 números </option>
+        <option>Primero resta los 2 números y luego los suma </option>
+        <option>Potencia del primer número </option>
+        <answer>2</answer>
+    </question>
+    <question id="Oscar003">
+        <type>checkbox</type>
+        <title>Si un tren eléctrico va de Norte a Sur,
+¿hacia qué lado echará el humo?</title>
+        <option>Hacia la izquierda</option>
+        <option>Es eléctrico, no hay humo</option>
+        <option>Hacia arriba</option>
+        <option>Hacia la derecha</option>
+        <answer>1</answer>
+    </question>
+    <question id="Jordi004">
+        <type> text </type>
+        <title> Un granjero tiene 10 conejos, 20 caballos y 40 cerdos. Si llamamos “caballos” a los “cerdos”, ¿cuántos caballos tendrá? </title>
+        <answer>20 </answer>
+    </question>
+    <question id="Jordi005">
+        <type>checkbox</type>
+        <title>Si me nombras desaparezco, ¿Quién soy? </title>
+        <option>El Silencio</option>
+        <option>El Viento</option>
+        <option>La oscuridad</option>
+        <option>El eco</option>
+        <answer> 0 </answer>
+    </question>
+    <question id="Jordi006">
+        <type>multiple</type>
+        <title>¿Cual es la comida favorita de la bruja de las arenas?</title>
+        <option>Patas de lagarto</option>
+        <option>Los escorpiones de Egipto</option>
+        <option>Vísceras de camello</option>
+        <option>El “Sandwitch” porque sand de arena y witch de bruja</option>
+        <answer>3</answer>
+    </question>
+    <question id="Biel007">
+        <type>multiple</type>
+        <title>En el agua se hace, en ella se deshace ¿Qué es?</title>
+        <option>La aspirina</option>
+        <option>La sal</option>
+        <option>Un cubito</option>
+        <option>El azúcar</option>
+        <answer>1</answer>
+    </question>
+</questions>

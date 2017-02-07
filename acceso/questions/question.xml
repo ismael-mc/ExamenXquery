@@ -1,0 +1,118 @@
+<questions>
+    <question id="bodatoda001">
+        <type>text</type>
+        <title>¿Cómo se escribe 99 en chino?</title>
+        <answer>Cachi chen</answer>
+    </question>
+    <question id="bodatoda002">
+        <type>text</type>
+        <title>Si estás participando en una carrera y adelantas al segundo. ¿En qué posición terminarias la carrera?</title>
+        <answer>Segundo</answer>
+    </question>
+    <question id="bodatoda003">
+        <type>checkbox</type>
+        <title>¿Qué aves vuelan más alto que las montañas?</title>
+        <option>Casi todas</option>
+        <option>Águilas</option>
+        <option>Halcones y mofetas</option>
+        <option>Periquitos</option>
+        <option>Calamares</option>
+        <option>Gaviotas y cigüeñas</option>
+        <option>Ninguna</option>
+        <answer>0</answer> <!--Casi todas, las montañas no vuelan.-->
+    </question>
+    <question id="bodatoda004">
+        <type>checkbox</type>
+        <title>¿Cuántos animales de cada especie llevo Moisés en el Arca?</title>
+        <option>Uno por especie.</option>
+        <option>Dos por especie.</option>
+        <option>Tres por especie</option>
+        <option>Ninguno</option>
+        <answer>3</answer><!--Ninguno, fue noé-->
+    </question>
+    <question id="bodatoda005">
+        <type>select</type>
+        <title>Negro por fuera amarillo por dentro, ¿qué es?</title>
+        <option>Un mango</option>
+        <option>Un Mago</option>
+        <option>Un pollo ninja</option>
+        <option>Un pepino zombi</option>
+        <option>Un huevo negro.</option>
+        <option>Calamardo</option>
+        <answer>2</answer> <!--Un pollito ninja-->
+    </question>
+    <question id="bodatoda006">
+        <type>radio</type>
+        <title>¿Qué es algo y nada a la vez?</title>
+        <option>Nada</option>
+        <option>Si es algo no puede ser nada a la vez….</option>
+        <option>Un inocente pez</option>
+        <option>El aire</option>
+        <answer>2</answer>
+    </question>
+    <question id="bodatoda007">
+        <type>radio</type>
+        <title>¿Por qué un pezón va más rápido que una tortuga?</title>
+        <option>Porque corre como el humano que lo posee</option>
+        <option>Porque las tortugas son lentas de por sí</option>
+        <option>Es mentira, la tortuga va más rápido porque un pezón no se mueve</option>
+        <option>Porque va echando leches</option>
+        <answer>3</answer>
+    </question>
+    <question id="bodatoda008">
+        <type>multiple</type>
+        <title>¿Cuales de estos tiene una navaja?</title>
+        <option>Borja</option>
+        <option>Toni</option>
+        <option>Dani legal</option>
+        <option>Dani Ilegal</option>
+        <answer>0</answer>
+        <answer>3</answer>
+    </question>
+    <question id="bodatoda009">
+        <type>multiple</type>
+        <title>Selecciona los integrantes del grupo que han hecho estas preguntas.</title>
+        <option>Adolf Hitler</option>
+        <option>Las Supernenas</option>
+        <option>Marco</option>
+        <option>Polo</option>
+        <option>Dexter</option>
+        <option>Rick</option>
+        <option>Morty</option>
+        <option>Sergi Roberti</option>
+        <option>Vili Mihailov</option>
+        <option>Carlos Guareño</option>
+        <option>Yeray</option>
+        <option>Gsus</option>
+        <option>Xisco Miquel</option>
+        <option>Alba</option>
+        <option>Borja</option>
+        <option>Carlos </option>
+        <option>Dani legal</option>
+        <option>Hillary Clinton</option>
+        <option>Dani ilegal</option>
+        <option>Donald Trump</option>
+        <option>El pato donald</option>
+        <option>Goofy</option>
+        <option>Marga</option>
+        <option>Pablo Iglesias</option>
+        <option>Francisco Franco</option>
+        <option>El oso Yogui</option>
+        <option>Batman</option>
+        <option>Toni</option>
+        <option>Robin</option>
+        <answer>14</answer>
+        <answer>16</answer>
+        <answer>18</answer>
+        <answer>27</answer>
+    </question>
+    <question id="bodatoda010">
+        <type>select</type>
+        <title>Un pato y un niño nacen el mismo día. Al cabo de un año ¿cuál es mayor de los dos?</title>
+        <option>El niño</option>
+        <option>El pato</option>
+        <option>Ninguno</option>
+        <answer>1</answer>
+	<!--El pato tendrá año y pico -->
+    </question>
+</questions>
